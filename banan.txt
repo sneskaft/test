@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello there i love pizza my man. Jag fuckar med din text.
+=======
+Hello there i love pizza my man
+XDDDDDD Banan
+>>>>>>> fcb92e1a30e8d4d8db5e8b489bddc73fca29d1c4
